@@ -9,8 +9,8 @@
 ## 💫&nbsp; About Me
 - 🚀&nbsp; Android Developer || MERN Stack Developer
 - 💻&nbsp; Continuously learning and adapting to the latest industry trends and best practices in software development.
-- 💡&nbsp; Strong believer in clean code, modular architecture, and efficient problem-solving.
-- 📖&nbsp; Learn more about me on my **[Portfolio]** and **[Resume]**
+- 💡&nbsp; Strong believer in clean code, modular architecture, and efficient problem-solving.
+- 📖&nbsp; Learn more about me on my <a href="https://www.rutanshubhayani.com" target="_blank">Portfolio</a> and <a href="https://drive.google.com/file/d/1oeCVNo2ME7ZVMJ9VCrAK3ODwYRJ89ZY0/view" target="_blank">Resume</a>
 
 # 🌐&nbsp; Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/rutanshubhayani)
@@ -69,6 +69,8 @@
     <img alt="Github Contribution Snake Game" src="profile/assets/SnakeGame.svg" />
   </picture>
 </p>
+
+<a href="https://www.rutanshubhayani.com" target="_blank">Portfolio</a> | <a href="https://drive.google.com/file/d/1oeCVNo2ME7ZVMJ9VCrAK3ODwYRJ89ZY0/view" target="_blank">Resume</a>
 
 [LinkedIn]: https://www.linkedin.com/in/rutanshubhayani "Rutanshu's LinkedIn"
 [Portfolio]: https://www.rutanshubhayani.com "Rutanshu's Portfolio"
