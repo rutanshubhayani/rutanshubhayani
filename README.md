@@ -71,8 +71,8 @@
 </p>
 
 [LinkedIn]: https://www.linkedin.com/in/rutanshubhayani "Rutanshu's LinkedIn"
-[Portfolio]: https://www.rutanshubhayani.com "Rutanshu's Portfolio"
-[Resume]: https://drive.google.com/file/d/1oeCVNo2ME7ZVMJ9VCrAK3ODwYRJ89ZY0/view "Checkout Rutanshu's Resume"
+[Portfolio]: https://www.rutanshubhayani.com "Rutanshu's Portfolio" target="_blank"
+[Resume]: https://drive.google.com/file/d/1oeCVNo2ME7ZVMJ9VCrAK3ODwYRJ89ZY0/view "Checkout Rutanshu's Resume" target="_blank"
 [Twitter]: https://x.com/rutanshubhayani "Rutanshu's Twitter"
 [Facebook]: https://www.instagram.com/rutanshubhayani "Rutanshu's Facebook"
 
