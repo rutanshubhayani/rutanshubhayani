@@ -70,11 +70,12 @@
   </picture>
 </p>
 
-<a href="https://www.rutanshubhayani.com" target="_blank">Portfolio</a> | <a href="https://drive.google.com/file/d/1i5ePuyZ4ILzIRx7DDSjQILAhV53bd-nz/view" target="_blank">Resume</a>
+<a href="https://www.rutanshubhayani.com" target="_blank">Portfolio</a> | <a href="https://drive.google.com/uc?export=download&id=1i5ePuyZ4ILzIRx7DDSjQILAhV53bd-nz" target="_blank">Resume</a>
+
 
 [LinkedIn]: https://www.linkedin.com/in/rutanshubhayani "Rutanshu's LinkedIn"
 [Portfolio]: https://www.rutanshubhayani.com "Rutanshu's Portfolio"
-[Resume]:https://drive.google.com/file/d/1i5ePuyZ4ILzIRx7DDSjQILAhV53bd-nz/view "Checkout Rutanshu's Resume"
+[Resume]:https://drive.google.com/uc?export=download&id=1i5ePuyZ4ILzIRx7DDSjQILAhV53bd-nz "Checkout Rutanshu's Resume"
 [Twitter]: https://x.com/rutanshubhayani "Rutanshu's Twitter"
 [Facebook]: https://www.instagram.com/rutanshubhayani "Rutanshu's Facebook"
 
