@@ -10,7 +10,7 @@
 - 🚀&nbsp; Android Developer || MERN Stack Developer
 - 💻&nbsp; Continuously learning and adapting to the latest industry trends and best practices in software development.
 - 💡&nbsp; Strong believer in clean code, modular architecture, and efficient problem-solving.
-- 📖&nbsp; Learn more about me on my <a href="https://www.rutanshubhayani.com" target="_blank">Portfolio</a> and <a href="https://drive.google.com/file/d/1oeCVNo2ME7ZVMJ9VCrAK3ODwYRJ89ZY0/view" target="_blank">Resume</a>
+- 📖&nbsp; Learn more about me on my **[Portfolio]** and **[Resume]**
 
 # 🌐&nbsp; Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/rutanshubhayani)
@@ -75,7 +75,7 @@
 
 [LinkedIn]: https://www.linkedin.com/in/rutanshubhayani "Rutanshu's LinkedIn"
 [Portfolio]: https://www.rutanshubhayani.com "Rutanshu's Portfolio"
-[Resume]:https://drive.google.com/uc?export=download&id=1i5ePuyZ4ILzIRx7DDSjQILAhV53bd-nz "Checkout Rutanshu's Resume"
+[Resume]:https://drive.google.com/file/d/1i5ePuyZ4ILzIRx7DDSjQILAhV53bd-nz/view?usp=sharing "Checkout Rutanshu's Resume"
 [Twitter]: https://x.com/rutanshubhayani "Rutanshu's Twitter"
 [Facebook]: https://www.instagram.com/rutanshubhayani "Rutanshu's Facebook"
 
