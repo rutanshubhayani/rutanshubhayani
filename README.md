@@ -74,7 +74,7 @@
 
 
 [LinkedIn]: https://www.linkedin.com/in/rutanshubhayani "Rutanshu's LinkedIn"
-[Portfolio]: https://www.rutanshubhayani.com "Rutanshu's Portfolio"
+[Portfolio]: https://rutanshubhayani.vercel.app "Rutanshu's Portfolio"
 [Resume]:https://drive.google.com/file/d/1i5ePuyZ4ILzIRx7DDSjQILAhV53bd-nz/view?usp=sharing "Checkout Rutanshu's Resume"
 [Twitter]: https://x.com/rutanshubhayani "Rutanshu's Twitter"
 [Facebook]: https://www.instagram.com/rutanshubhayani "Rutanshu's Facebook"
