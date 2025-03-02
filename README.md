@@ -70,7 +70,7 @@
   </picture>
 </p>
 
-<a href="https://www.rutanshubhayani.com" target="_blank">Portfolio</a> | <a href="https://drive.google.com/file/d/16bDOokM5jvyTFJMKJbNYFD-mIr1DbTre/view?usp=drivesdk" target="_blank">Resume</a>
+<a href="https://www.rutanshubhayani.vercel.app" target="_blank">Portfolio</a> | <a href="https://drive.google.com/file/d/16bDOokM5jvyTFJMKJbNYFD-mIr1DbTre/view?usp=drivesdk" target="_blank">Resume</a>
 
 
 [LinkedIn]: https://www.linkedin.com/in/rutanshubhayani "Rutanshu's LinkedIn"
